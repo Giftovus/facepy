@@ -1,4 +1,4 @@
-requests
+requests == 0.14.0
 nose
 nose-cov
 sphinx
